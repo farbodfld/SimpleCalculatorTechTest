@@ -2,11 +2,11 @@
 
 A clean, production-quality technical assessment solution demonstrating a modern .NET 8 backend and a polished React frontend.
 
-## 🚀 Overview
+## Overview
 
 This repository contains a full-stack calculator application. The solution is split into a robust C# backend following SOLID principles and a responsive, high-fidelity React frontend.
 
-## 🏗️ Project Structure
+## Project Structure
 
 - **`CalculatorTest.sln`**: Main Visual Studio solution.
 - **`src/CalculatorTest.Core`**: Class library containing the `ISimpleCalculator` interface and logic.
@@ -14,7 +14,7 @@ This repository contains a full-stack calculator application. The solution is sp
 - **`tests/CalculatorTest.Tests`**: xUnit test project for core logic verification.
 - **`calculator-ui/`**: Modern React application (Vite-powered) with a premium UI/UX.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend**: .NET 8, ASP.NET Core Web API.
 - **Logic**: C# (ISimpleCalculator interface implementation).
@@ -22,7 +22,7 @@ This repository contains a full-stack calculator application. The solution is sp
 - **Frontend**: React (Vite), Vanilla CSS (Custom Design System), Lucide Icons, Axios.
 - **UI/UX**: Responsive design, Modal workflow, Multi-theme support.
 
-## 🏃 How to Run
+## How to Run
 
 ### 1. Prerequisite
 Ensure you have [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) and [Node.js](https://nodejs.org/) installed.
@@ -49,7 +49,7 @@ From the root directory:
 dotnet test
 ```
 
-## 🔌 API Endpoints
+## API Endpoints
 
 - **Add**: `GET /api/calculator/add?start={int}&amount={int}`
 - **Subtract**: `GET /api/calculator/subtract?start={int}&amount={int}`
@@ -65,7 +65,7 @@ Example Response:
 }
 ```
 
-## ✒️ Design Choices & Assumptions
+## Design Choices & Assumptions
 
 - **React over Angular**: While the brief suggested Angular, React (Vite) was chosen for this assessment to deliver a higher degree of visual polish and responsive performance within the implementation window. React's ecosystem allows for rapid creation of premium UI elements like the "Neo-Brutalism" theme toggle.
 - **State Management**: Local React state was used for simplicity, as the application's global state requirements are minimal.
@@ -73,7 +73,7 @@ Example Response:
 - **Structured Response**: The API returns a `CalculatorResult` object instead of a raw integer to provide better context (timestamp, operation type) for the UI.
 - **Theming**: A "Style Toggle" was included to demonstrate CSS modularity and the ability to restyle complex components (like the Modal) dynamically.
 
-## ✅ Requirements Checklist
+## Requirements Checklist
 
 - [x] Visual Studio solution named CalculatorTest
 - [x] C# class library with ISimpleCalculator
