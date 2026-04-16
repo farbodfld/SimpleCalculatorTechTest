@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CalculatorTest.Api.props" />
+</Project>

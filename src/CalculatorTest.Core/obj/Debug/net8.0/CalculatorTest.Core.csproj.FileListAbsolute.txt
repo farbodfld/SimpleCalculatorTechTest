@@ -1,0 +1,11 @@
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\bin\Debug\net8.0\CalculatorTest.Core.deps.json
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\bin\Debug\net8.0\CalculatorTest.Core.dll
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\bin\Debug\net8.0\CalculatorTest.Core.pdb
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\CalculatorTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\CalculatorTest.Core.AssemblyInfoInputs.cache
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\CalculatorTest.Core.AssemblyInfo.cs
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\CalculatorTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\CalculatorTest.Core.dll
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\refint\CalculatorTest.Core.dll
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\CalculatorTest.Core.pdb
+C:\Users\farbo\OneDrive\Desktop\techTest\src\CalculatorTest.Core\obj\Debug\net8.0\ref\CalculatorTest.Core.dll
